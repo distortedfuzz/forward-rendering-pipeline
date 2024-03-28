@@ -10,4 +10,4 @@ There are solid and wireframe modes to render objects.
 
 The clipping algorithm has problems, does not work on some lines.
 
-Reading the files and the basic matrix and vector classes are not my work.
+Everything except reading the files, the basic matrix and vector classes is my work.
