@@ -15,3 +15,8 @@ Everything except reading the files, the basic matrix and vector classes is my w
 >make rasterizer
 >
 >./rasterizer <input_file_name>
+
+
+Sample outputs:
+
+
