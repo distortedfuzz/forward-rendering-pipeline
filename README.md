@@ -1,6 +1,6 @@
-CENG477 HW2
+## CENG477 HW2
 
-Forward Rendering Pipeline
+## Forward Rendering Pipeline
 
 Grade: 95.0/100.0
 
